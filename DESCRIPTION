@@ -1,0 +1,14 @@
+Package: MUSE
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Yu Cheng (China Pharmaceutical University, Ph.D.)
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+Imports: RcppArmadillo, Rcpp (>= 1.0.10)
+LinkingTo: RcppArmadillo, Rcpp, RcppEigen, BH
+NeedsCompilation: yes
+Packaged: 2023-09-02 12:51:15 UTC; user2

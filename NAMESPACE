@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(RcppArmadillo)
+import(Rcpp)
+useDynLib(MUSE, .registration = TRUE)
