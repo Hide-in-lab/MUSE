@@ -353,22 +353,6 @@ List MUSE( arma::vec &data_mean_gamma, arma::vec &data_s2_gamma, arma::vec &data
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // [[Rcpp::export]]
 
 NumericVector rnorm_cpp(int n, double mean, double sd) {
