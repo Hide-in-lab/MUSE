@@ -7,7 +7,7 @@ Rtools and X code for Windows, Mac OS/X, and Linux, respectively.
 ```
 install.packages( 'devtools' )  
 library( devtools )  
-install_github( 'Hide-in-lab/MUSE', force  = T )
+install_github( 'Hide-in-lab/MUSE@main', force  = T )
 ```
 # References
 Yu Cheng<sup>1</sup>, Tiantian Liu<sup>#</sup>, Fangrong Yan<sup> #</sup>. **Identifying modifiable risk factors on colorectal cancer with MUSE: a novel two-sample Mendelian randomization method**
